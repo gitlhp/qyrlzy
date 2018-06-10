@@ -35,7 +35,7 @@ public class AdminAction extends BaseAction {
 	private static final long serialVersionUID = 1L;
 	AdminService adminService = new AdminService();
 	LoginService loginService = new LoginService();
-	// 抓取页面参数，获取表单数据
+	// 抓取页面参数，获取表单数据李怀鹏
 	Manager paramsManager;
 	User paramsUser;
 	Depart paramsDepart;
